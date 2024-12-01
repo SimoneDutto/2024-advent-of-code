@@ -1,4 +1,5 @@
-data = File.read!("input.txt")
+# 1 star
+data = File.read!("input_1_star_test.txt")
 
 {v1_list, v2_list} =
   data
